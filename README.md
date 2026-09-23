@@ -15,7 +15,7 @@ búsqueda y recomendación— está escrito en **C++17 sin dependencias externas
 | Nombre y apellidos | Código | Responsabilidad principal |
 |---|---|---|
 | Alonso Gomez | | Pre‑procesamiento y lector CSV |
-| Alvaro Quispe | | Tries e índice invertido |
+| Alvaro Quispe | 202510375 | Tries e índice invertido |
 | Adrian Varillas | | Ranking y recomendaciones |
 | Luciano Sanchez | | Interfaz e integración |
 
